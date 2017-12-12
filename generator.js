@@ -118,8 +118,6 @@ do {
 
 console.log('Задание 3');
 
-// class Order уже есть
-// class Truck уже есть
 class TruckPlanner {
   constructor (weightLimit) {
   this.weightLimit = weightLimit;
